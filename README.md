@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mostakim Ahamed</h1>
 <h3 align="center">Empowering Web Experiences with React Brilliance</h3>
 
-- 🌱 I’m currently learning **React, Javascript**
+
+- 🌱 I’m currently learning **Express, Mongoose, MongoDB**
+- 🌱 I've expertise in **React, Javascript, TypeScript, Express, MongoDB, MySQL**
 - 👨‍💻 All of my projects are available at [Portfolio](https://mostakim-ahamed-portfolio.web.app/)
 - 💬 Ask me about **React**
 - 📫 How to reach me **mostakimahamed401@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/drive/u/0/folders/1JWtZVuaPokqUrgL0xOMGFTD0SpVrCWBA)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/drive/u/0/folders/1JWtZVuaPokqUrgL0xOMGFTD0SpVrCWBA](https://drive.google.com/file/d/1bHi0IykUWiQ7dJUGf65_wJhGihTiHwn0/view?usp=sharing))
 - ⚡ Fun fact **Personalized React dev environment!**
 
 <h3 align="left">Connect with me:</h3>
