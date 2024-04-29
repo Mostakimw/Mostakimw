@@ -2,13 +2,13 @@
 <h3 align="center">Empowering Web Experiences with React Brilliance</h3>
 
 
-- 🌱 I’m currently learning **Express, Mongoose, MongoDB**
-- 🌱 I've expertise in **React, Javascript, TypeScript, Express, MongoDB, MySQL**
+- 🌱 I’m currently learning **Next JS**
+- 🌱 I've expertise in **React, Javascript, TypeScript, Redux, Next Js, Node Js Express, MongoDB, Mongoose, MySQL**
 - 👨‍💻 All of my projects are available at [Portfolio](https://mostakim-ahamed-portfolio.web.app/)
-- 💬 Ask me about **React**
+- 💬 Ask me about **React, Next Js**
 - 📫 How to reach me **mostakimahamed401@gmail.com**
 - 📄 Know about my experiences [Resume]([https://drive.google.com/drive/u/0/folders/1JWtZVuaPokqUrgL0xOMGFTD0SpVrCWBA](https://drive.google.com/file/d/1bHi0IykUWiQ7dJUGf65_wJhGihTiHwn0/view?usp=sharing))
-- ⚡ Fun fact **Personalized React dev environment!**
+- ⚡ Fun fact **Personalized Frontend dev environment!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
