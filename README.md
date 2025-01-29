@@ -38,4 +38,4 @@
 
 <div><p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mostakimw&show_icons=true&locale=en" alt="mostakimw" /></p></div> <br/>
 
-<p>[![GitHub Streak](https://streak-stats.demolab.com/?user=Mostakimw)](https://git.io/streak-stats)</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Mostakimw)](https://git.io/streak-stats)
